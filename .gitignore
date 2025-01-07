@@ -1,0 +1,27 @@
+# 环境变量文件
+.env
+
+# 配置文件
+config.yaml
+
+# 编译输出
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试二进制文件
+*.test
+
+# 输出文件
+*.out
+
+# IDE 相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mac OS 系统文件
+.DS_Store 
